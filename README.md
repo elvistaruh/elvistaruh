@@ -1,5 +1,5 @@
 Hi, I am Elvis 👋
-I like doing project for Game Development and Computer Vision. I'm currently working cow detection with edge computing.
+I like doing projects for Game Development and Computer Vision. I'm currently working cow detection with edge computing.
 
 ✨ I study: Python, Java, C, C#
 
